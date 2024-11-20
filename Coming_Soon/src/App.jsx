@@ -13,7 +13,7 @@ const App = () => {
     <section
       className="container"
       style={{
-        backgroundImage: 'url("https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg?t=st=1732080982~exp=1732084582~hmac=a5ed03ec13d210b90a96194353184c632946b2e07fbffc68153bc5472252c185&w=996")',
+        backgroundImage: 'url("https://i.pinimg.com/474x/5f/21/24/5f2124ee766032d850899008ada7a85c.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         height: '100vh',
